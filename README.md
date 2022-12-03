@@ -12,7 +12,7 @@ CONECTA LÁ NO LINKEDIN: https://www.linkedin.com/in/talilotarlison/
 
 SITES PARA ESTUDAR PROGRAMAÇÃO:
 
-ROCKETSEAT: rocketseat.com.br
+ROCKETSEAT: www.rocketseat.com.br
 DIO: digitalinnovation.one
 Curso em video: www.youtube.com/c/CursoemVídeo
 Udemy: https://www.udemy.com/
@@ -33,6 +33,7 @@ Sololearn: https://www.sololearn.com/
 EdX: https://www.edx.org/
 Treehouse: https://teamtreehouse.com/
 Tutorialspoint: https://www.tutorialspoint.com/
+Alura: www.alura.com.br
 
 SITES PARA DESENVOLVEDOR FRONT-END:
 

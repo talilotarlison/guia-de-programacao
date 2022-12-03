@@ -1,12 +1,12 @@
 # Guia de Programação
 ![progamacao](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU-D7BvdF0nlFuWggPr_VD86c8KQLfDP6fvg&usqp=CAU)
-GUIA EXTENSO DE PROGRAÇÃO:
+**GUIA EXTENSO DE PROGRAÇÃO:**
 
-ANTES DE TUDO, ME AJUDA AI DEU UM TRABALHÃO ORGANIZAR TODOS ESSES LINKS, ENTÃO AJUDA AI:
+*Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenvolvedor ou se especializar em qualquer área de TI.*
 
-ME SEGUE NO GITHUB: https://github.com/arthurspk/
+ME SEGUE NO GITHUB: https://github.com/talilotarlison/
 ENTRA NO SERVIDOR DO DISCORD PARA MAIS CONTEÚDO: https://discord.gg/NbMQUPjHz7
-CONECTA LÁ NO LINKEDIN: https://www.linkedin.com/in/arthurspk/
+CONECTA LÁ NO LINKEDIN: https://www.linkedin.com/in/talilotarlison/
 
 SITES PARA ESTUDAR PROGRAMAÇÃO:
 

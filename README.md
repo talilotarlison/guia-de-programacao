@@ -793,3 +793,17 @@ git branch -D nome-branch
 
 Deletando uma branch remoto
 git push origin :nome-branch
+
+Editores onlines;
+1) 2:26 CodePen
+2) 3:47 JSFiddle
+3) 4:55 StackBlitz
+4) 5:45 Codenvy
+5) 6:40 CodeAnywhere
+6) 8:02 CodeSandbox
+7) 9:21 Gitpod
+8) hepl.it
+9) VS Code
+10) Github
+11) Ide CS50
+12) fronteditor.dev

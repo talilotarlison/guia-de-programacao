@@ -1,5 +1,5 @@
 # Guia de Programação
-![progamacao](https://camo.githubusercontent.com/c9fb3e438e1ae529c2dc492ed659b49768d1f8b49f76a9b492467ec6b27d0706/68747470733a2f2f692e696d6775722e636f6d2f396d5a6c6c37692e6a7067)
+![progamacao](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU-D7BvdF0nlFuWggPr_VD86c8KQLfDP6fvg&usqp=CAU)
 GUIA EXTENSO DE PROGRAÇÃO:
 
 ANTES DE TUDO, ME AJUDA AI DEU UM TRABALHÃO ORGANIZAR TODOS ESSES LINKS, ENTÃO AJUDA AI:

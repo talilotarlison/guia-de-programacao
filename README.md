@@ -807,3 +807,13 @@ Editores onlines;
 10) Github
 11) Ide CS50
 12) fronteditor.dev
+Olá turma, me chamo Eduardo, nesse primeiro post gostaria de compartilhar alguns cursos que fiz de inicio para entrar na área de Dados.
+Recomendo muito a DSA (Data Science Academy) lá você vai encontrar cursos de Python, Power BI, Fundamentos de Eng. de Dados, Big Data, IA ...
+
+Link da DSA: https://www.datascienceacademy.com.br/cursosgratuitos
+
+Outro lugar muito bom são os cursos da FIAP que são: Big Data & Analytics, Cloud Fundamentals, Administration and Solution Architect, Business Intelligence (BI), Python ... além de outros cursos na área da TI.
+
+Link: https://eucapacito.com.br/pesquisa-cursos?t=262
+
+É isso turma ... e quem quiser ir colocando mais referências nos comentários ... tamo junto

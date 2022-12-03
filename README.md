@@ -5,7 +5,9 @@
 *Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenvolvedor ou se especializar em qualquer área de TI.*
 
 ME SEGUE NO GITHUB: https://github.com/talilotarlison/
+
 ENTRA NO SERVIDOR DO DISCORD PARA MAIS CONTEÚDO: https://discord.gg/NbMQUPjHz7
+
 CONECTA LÁ NO LINKEDIN: https://www.linkedin.com/in/talilotarlison/
 
 SITES PARA ESTUDAR PROGRAMAÇÃO:
